@@ -9,11 +9,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      
-      - name: Generate Monkeytype Readme
-        uses: monkeytype-hub/monkeytype-readme@master
+      - uses: A7u/monkeytype-readme@master
         with:
-          # Nombres de variables corregidos para esta versión del bot
           username: 'clemente_abarzua'
-          themes: 'nord'
           github-token: ${{ secrets.GITHUB_TOKEN }}
