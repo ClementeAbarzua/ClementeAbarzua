@@ -1,0 +1,19 @@
+name: generate monkeytype readme svg
+on:
+  schedule:
+    - cron: "0 */6 * * *" # Se ejecuta cada 6 horas
+  workflow_dispatch:      # Te permite ejecutarlo manualmente si quieres
+
+jobs:
+  download-svg:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+      
+      - name: Generate Monkeytype Readme
+        uses: ridemountainpig/monkeytype-readme@v1.1
+        with:
+          # Asegúrate de poner tu usuario real de Monkeytype aquí
+          MONKEYTYPE_USERNAME: 'TU_USUARIO_AQUI' 
+          MONKEYTYPE_THEME_NAME: 'nord' # Puedes cambiar 'nord' por tu tema favorito
