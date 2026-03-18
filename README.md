@@ -1,7 +1,7 @@
 # Clemente 👾
 📍 Santiago, Chile | 🗣️ Fluent in English & Spanish
 
-Estudiante de Ingeniería Civil en la UAI 🏗️. Me dedico a la automatización de sistemas ⚙️, la creación de bots y el desarrollo de scripts de ejecución rápida (sniping) 🎯 para optimizar procesos y eliminar el trabajo manual.
+Estudiante de Ingeniería Civil Informática en la UAI 🏗️. Me dedico a la automatización de sistemas ⚙️, la creación de bots y el desarrollo de scripts de ejecución rápida (sniping) 🎯 para optimizar procesos y eliminar el trabajo manual.
 
 Mi enfoque técnico no se basa en memorizar código ❌, sino en un método intuitivo-deductivo 👁️‍🗨️: desmonto los sistemas para entender su mecánica interna y su lógica causal 🛠️. Solo desde ahí construyo soluciones.
 
@@ -22,7 +22,7 @@ Aunque escribo código para automatizar, la arquitectura de mis proyectos se apo
 <summary><b>🇺🇸 Click here for the English version</b></summary>
 <br>
 
-Civil Engineering student at UAI 🏗️. I focus on system automation ⚙️, bot creation, and the development of fast-execution scripts (sniping) 🎯 to optimize processes and eliminate manual work.
+Computer Engineering student at UAI 🏗️. I focus on system automation ⚙️, bot creation, and the development of fast-execution scripts (sniping) 🎯 to optimize processes and eliminate manual work.
 
 My technical approach isn't based on memorizing code ❌, but on an intuitive-deductive method 👁️‍🗨️: I dismantle systems to understand their internal mechanics and causal logic 🛠️. Only from there do I build solutions.
 
