@@ -3,8 +3,6 @@
 
 Estudiante de Ingeniería Civil Informática en la UAI 🏗️. Me dedico a la automatización de sistemas ⚙️, la creación de bots y el desarrollo de scripts de ejecución rápida (sniping) 🎯 para optimizar procesos y eliminar el trabajo manual.
 
-Mi enfoque técnico no se basa en memorizar código ❌, sino en un método intuitivo-deductivo 👁️‍🗨️: desmonto los sistemas para entender su mecánica interna y su lógica causal 🛠️. Solo desde ahí construyo soluciones.
-
 Aunque escribo código para automatizar, la arquitectura de mis proyectos se apoya en dos áreas que estudio a fondo 🔬:
 * **Finanzas:** 📈 Uso los principios del análisis técnico bursátil y modelos cuantitativos para que mis bots identifiquen patrones 🧩 y tomen decisiones.
 * **Neurología y Eficiencia:** 🧬 Aplico conceptos de comportamiento cognitivo para estructurar mejor la lógica algorítmica y maximizar el rendimiento 🔋, tanto mío como de los sistemas que diseño.
@@ -23,8 +21,6 @@ Aunque escribo código para automatizar, la arquitectura de mis proyectos se apo
 <br>
 
 Computer Engineering student at UAI 🏗️. I focus on system automation ⚙️, bot creation, and the development of fast-execution scripts (sniping) 🎯 to optimize processes and eliminate manual work.
-
-My technical approach isn't based on memorizing code ❌, but on an intuitive-deductive method 👁️‍🗨️: I dismantle systems to understand their internal mechanics and causal logic 🛠️. Only from there do I build solutions.
 
 Although I write code to automate, the architecture of my projects relies on two areas I study in depth 🔬:
 * **Finance:** 📈 I use principles of technical stock analysis and quantitative models so my bots can identify patterns 🧩 and make decisions autonomously.
