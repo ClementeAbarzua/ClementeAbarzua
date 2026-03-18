@@ -13,6 +13,7 @@ jobs:
       - name: Generate Monkeytype Readme
         uses: monkeytype-hub/monkeytype-readme@master
         with:
-          # ASEGÚRATE de que este sea tu usuario EXACTO en Monkeytype
-          MONKEYTYPE_USERNAME: 'clemente_abarzua'
-          MONKEYTYPE_THEME_NAME: 'nord'
+          # Nombres de variables corregidos para esta versión del bot
+          username: 'clemente_abarzua'
+          themes: 'nord'
+          github-token: ${{ secrets.GITHUB_TOKEN }}
