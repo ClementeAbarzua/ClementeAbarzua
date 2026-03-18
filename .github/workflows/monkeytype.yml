@@ -9,7 +9,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: A7u/monkeytype-readme@master
+      - uses: A7ul/monkeytype-readme@master
         with:
           username: 'clemente_abarzua'
-          github-token: ${{ secrets.GITHUB_TOKEN }}
