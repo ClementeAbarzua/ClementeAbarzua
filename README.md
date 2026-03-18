@@ -34,3 +34,10 @@ Although I write code to automate, the architecture of my projects relies on two
 ✅ Solving real problems at the intersection of AI, finance, and neurology focused on optimization and automation. I'm interested in projects that demand an analytical vision and deliver measurable results.
 
 </details>
+
+### 🧠 Personal Optimization
+**Cognitive & Mechanical Efficiency:** Training to reduce the latency between logical thought and code execution.
+<br>
+<a href="https://monkeytype.com/profile/clemente_abarzua">
+  <img src="https://raw.githubusercontent.com/clemente_abarzua/clemente_abarzua/monkeytype-readme/monkeytype-readme-lb.svg" alt="Monkeytype Stats" width="400"/>
+</a>
