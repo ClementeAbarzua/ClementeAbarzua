@@ -39,5 +39,5 @@ Although I write code to automate, the architecture of my projects relies on two
 **Cognitive & Mechanical Efficiency:** Training to reduce the latency between logical thought and code execution.
 <br>
 <a href="https://monkeytype.com/profile/clemente_abarzua">
-  <img src="https://monkeytype.com/api/users/clemente_abarzua/profile/svg?v=1" alt="Monkeytype Stats" width="500"/>
+  <img src="https://raw.githubusercontent.com/ClementeAbarzua/ClementeAbarzua/gh-pages/clemente_abarzua-monkeytype-readme.svg" alt="Monkeytype Stats" width="500"/>
 </a>
