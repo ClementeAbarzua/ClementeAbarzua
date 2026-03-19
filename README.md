@@ -38,4 +38,4 @@ Although I write code to automate, the architecture of my projects relies on two
 ### 🧠 Personal Optimization
 **Cognitive & Mechanical Efficiency:** Training to reduce the latency between logical thought and code execution.
 <br>
-[![Monkeytype](https://img.shields.io/badge/Monkeytype-91%20WPM-ffd35b?style=for-the-badge&logo=monkeytype&logoColor=black)](https://monkeytype.com/profile/clemente_abarzua)
+[![Monkeytype](https://img.shields.io/badge/Monkeytype-95%20WPM-ffd35b?style=for-the-badge&logo=monkeytype&logoColor=black)](https://monkeytype.com/profile/clemente_abarzua)
